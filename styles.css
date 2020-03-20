@@ -1,0 +1,20 @@
+body{
+    background-color: dimgray;
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    height: 0px;
+    width: 5%;
+    border-width: 5px;
+    border-color: peru;
+}
+
+h1{
+    color: #e4c676;
+}
+
+h3{
+    color: #e27e21;
+}
